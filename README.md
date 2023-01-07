@@ -1,8 +1,8 @@
-# nodeJs_docker
-RelationShip One to many 
-#Docker
-docker-compose up
-docker-compose up --build
 
-Socker Port : 3000
+This project contains 2 entities post and user with relationShip One to many.
+
+To Build the project on docker
+# docker-compose up
+
+Docker Port : 3000
 Project port : 9090
